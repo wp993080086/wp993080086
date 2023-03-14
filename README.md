@@ -1,4 +1,5 @@
-- 👋 Hi, I’m 鹏多多
-- 👀 I’m interested in Css and JavaScript and typeScript and Node.js and money
-- 🌱 I’m currently learning Node.js and React
-- 📫 Contact me by email at 993080086@qq.com
+- 👋 Hi, I’m 上进的鹏多多.
+- 👀 I’m interested in Css and JavaScript and typeScript and Node.js and Android and money.
+- 💪 I’m currently learning Android and Kotlin.
+- 📫 Contact me by email at 993080086@qq.com.
+- 😀 Welcome to browse and communicate.

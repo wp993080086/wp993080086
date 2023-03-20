@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 上进的鹏多多.
+- 👋 Hi, I’m 前端劝退师-鹏多多.
 - 👀 I’m interested in Css and JavaScript and typeScript and Node.js and Android and money.
 - 💪 I’m currently learning Android and Kotlin.
 - 📫 Contact me by email at 993080086@qq.com.
